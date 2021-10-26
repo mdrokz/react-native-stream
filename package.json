@@ -6,5 +6,9 @@
   "repository": "https://github.com/mdrokz/react-native-stream.git",
   "author": "mdrokz <33598169+mdrokz@users.noreply.github.com>",
   "license": "GNU",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "events": "^3.3.0"
+  }
 }
