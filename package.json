@@ -1,5 +1,5 @@
 {
-  "name": "react-native-stream",
+  "name": "react-native-streams",
   "version": "1.0.0",
   "description": "node.js stream module port for react-native",
   "main": "lib/stream.js",
